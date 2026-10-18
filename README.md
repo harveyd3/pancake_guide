@@ -28,3 +28,4 @@ In this guide, you will be learning how to make a pancake step-by-step. This tut
 1. Batter is too runny: Add a little more pancake mix at a time and stir until you get the consistency you want.
 2. Pancakes are burning: Turn the stove temperature down to medium or medium-low heat so the pancakes can cook more evenly.
 
+Branch A says pancakes are best with blueberries.
