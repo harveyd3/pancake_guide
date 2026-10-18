@@ -1,14 +1,14 @@
 # Project Tasks
-- [ ] Introduction
-- [ ] Ingredients
-- [ ] Equipment
-- [ ] Step-by-Step Cooking Guide
-- [ ] Troubleshooting Common Pancake Problems
+- [x] Introduction
+- [x] Ingredients
+- [x] Equipment
+- [x] Step-by-Step Cooking Guide
+- [x] Troubleshooting Common Pancake Problems
 
 # GitHub Tasks
-- [ ] Create Project Issues
-- [ ] Create a feature branch
-- [ ] Make Commits and Push changes
-- [ ] Open a pull requests
-- [ ] Review and Merge Changes
-- [ ] Record the project walkthrough
+- [x] Create Project Issues
+- [x] Create a feature branch
+- [x] Make Commits and Push changes
+- [x] Open a pull requests
+- [x] Review and Merge Changes
+- [x] Record the project walkthrough
