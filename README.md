@@ -26,6 +26,6 @@ In this guide, you will be learning how to make a pancake step-by-step. This tut
 
 ## Troubleshooting Common Pancake Problems
 1. Batter is too runny: Add a little more pancake mix at a time and stir until you get the consistency you want.
-2. Pancakes are burning: Turn the stove temperature down to medium or medium-low heat so the pancakes can cook more evenly.
 
-Pancakes are best served with strawberries.
+Pancakes are better with strawberries and blueberries!
+
